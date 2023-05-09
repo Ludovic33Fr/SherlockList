@@ -1,3 +1,3 @@
 # SherlockList
 
-Vous retrouver ici la liste des règles d'inférence permettant de tester des hypothèses
+Vous retrouvez ici la liste des règles d'inférence pour obtenir des hypothèses à valider sur votre site.
